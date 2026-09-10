@@ -7,3 +7,4 @@ Conda Developing Environment Setup
 pip install fastapi
 pip install langchain langchain-cohere langchain-community
 pip install -U sentence-transformers
+pip install uvicorn[standard]
